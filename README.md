@@ -1,2 +1,2 @@
-# A simple project about pure java socket connection
+# A simple project about java socket connection
 ## and try-with-resource
